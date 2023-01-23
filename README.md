@@ -15,6 +15,7 @@ i)	# To find the maximum of marks using the list method sort.
 
 
 
+
 ```
 
 ii)	# To find the maximum marks using the list method max().
@@ -34,6 +35,9 @@ iii) # To find the maximum marks without using builtin functions.
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
+
+![Screenshot 2023-01-22 182725](https://user-images.githubusercontent.com/119477890/213957707-b4be31a4-9349-46a9-9219-aaff70c4cce3.png)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
